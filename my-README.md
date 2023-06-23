@@ -14,3 +14,7 @@ As stated above ...
 blah, blah, blah
 
 ## How to contribute
+
+### Copyright
+
+2023 Git Training
