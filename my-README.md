@@ -15,6 +15,8 @@ blah, blah, blah
 
 ## How to contribute
 
+Please fork this repo and issue pull requests for review
+
 ### Copyright
 
 2023 Git Training
