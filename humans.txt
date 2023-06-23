@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Britain Crooker     bcrooker@gmail.com
 
 # THANKS
 
